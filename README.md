@@ -1,1 +1,1 @@
-# mern-stack-mongodb
+# mern-stack-express.js
